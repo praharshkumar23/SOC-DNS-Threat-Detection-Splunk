@@ -4,34 +4,12 @@
   Ingesting, analyzing, and visualizing DNS logs using Splunk & Zeek
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SIEM-Splunk-success" />
-  <img src="https://img.shields.io/badge/Logs-Zeek-blue" />
-  <img src="https://img.shields.io/badge/Language-SPL-orange" />
-</p>
 
-<h1 align="center"> <img width="638" height="193" alt="image" src="https://github.com/user-attachments/assets/9c97a879-5c4e-4817-b681-0828c0ab3c56" /> </h1>
 
 ## 📌 Project Overview
 This project demonstrates how to **ingest, parse, and analyze DNS logs** using **Splunk Enterprise**.  
 Using **Zeek-style JSON DNS logs**, we perform security-focused DNS traffic analysis with **Splunk Search Processing Language (SPL)**.
 
-The project helps in identifying:
-- Frequently queried domain names  
-- Most active client IPs  
-- DNS query type distribution  
-- Potential anomalies in DNS behavior  
-
----
-
-## 🎯 Objectives
-By completing this project, you will learn how to:
-
-- Ingest JSON-formatted DNS logs into Splunk
-- Extract useful DNS metadata (queries, IPs, record types)
-- Write SPL queries for DNS traffic analysis
-- Detect suspicious or abnormal DNS activity
-- Build a foundation for DNS-based threat detection
 
 ---
 
